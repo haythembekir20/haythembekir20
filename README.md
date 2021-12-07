@@ -37,10 +37,8 @@
   <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
     <img src="https://img.icons8.com/color/35/000000/git.png"/>&nbsp; &nbsp;
 <img src="https://img.icons8.com/color-glass/35/4a90e2/github.png"/>&nbsp; &nbsp;
-
   <img src="https://img.icons8.com/color/35/000000/docker.png"/> &nbsp; &nbsp;
-
-    <img src="https://img.icons8.com/color/35/000000/html-5.png"/>&nbsp; &nbsp;
+   <img src="https://img.icons8.com/color/35/000000/html-5.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/css3.png"/>&nbsp; &nbsp;
    <img src="https://img.icons8.com/color/35/000000/bootstrap.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/4a90e2/javascript--v2.png"/>&nbsp; &nbsp;
@@ -52,7 +50,6 @@
   <img src="https://img.icons8.com/color/35/4a90e2/spring-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/flutter.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/dart.png"/>&nbsp; &nbsp;
-
   <img src="https://img.icons8.com/color/35/000000/angularjs.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/python--v2.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/c-programming.png"/> &nbsp; &nbsp;
