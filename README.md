@@ -32,6 +32,7 @@
         >
     </a>
 </p>
+<div>
 <h3 align="left">Languages and Tools:</h3>
   <img src="https://img.icons8.com/color/35/000000/android-studio--v2.png"/>
   <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
