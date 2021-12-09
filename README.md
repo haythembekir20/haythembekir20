@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS** 
 
-- 💬 Ask me about **PHP, MySQL, Flutter, JavaScript**
+- 💬 Ask me about **PHP, MySQL, Flutter, JavaScript,Java**
 
 - 📫 How to reach me **haythembekir@outlook.com**
 
