@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v1.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/symfony.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/officexs/35/000000/php-logo.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/35/4a90e2/spring-logo.png"/>&nbsp; &nbsp;
+ 
   <img src="https://img.icons8.com/color/35/000000/flutter.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/dart.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/angularjs.png"/>&nbsp; &nbsp;
