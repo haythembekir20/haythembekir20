@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haythem Bekir </h1>
 <h3 align="center">A Full Stack Web Developer from Tunisia</h3>
 
-- 💻 I mainly use **Express JS** and **VueJS**
+- 💻 I mainly use **Express JS** and **ReactJS**
 
-- 🌱 I’m currently learning **ReactJS** 
+- 🌱 I’m currently learning **WEB 3.0 ** 
 
 - 💬 Ask me about **PHP, MySQL, Flutter, JavaScript,Java**
 
