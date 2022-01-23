@@ -3,7 +3,7 @@
 
 - 💻 I mainly use **Express JS** and **ReactJS**
 
-- 🌱 I’m currently learning **WEB 3.0 ** 
+- 🌱 I’m currently learning **NextJS** 
 
 - 💬 Ask me about **PHP, MySQL, Flutter, JavaScript,Java**
 
