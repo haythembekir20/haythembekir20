@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **haythembekir@outlook.com**
 
-- 📄 This is my Portfolio: <a href="haythembekir.me" target="_blank">
+- 📄 This is my Portfolio: <a href="https://haythembekir.me/" target="_blank">
         **haythembekir.me**
     </a> 
 - ⚡ Fun fact "**If it works... don't touch it!**"
