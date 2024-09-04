@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haythem Bekir </h1>
 <h3 align="center">A Full Stack Web Developer from Tunisia</h3>
 
-- 💻 I mainly use **Express JS** and **ReactJS**
+- 💻 I mainly use **Laravel ** and **MERN STACK**
 
-- 🌱 I’m currently learning **NextJS** 
+- 🌱 I’m currently learning **GO** 
 
-- 💬 Ask me about **PHP, MySQL, Flutter, JavaScript,Java**
+- 💬 Ask me about **PHP, SQL, JavaScript**
 
 - 📫 How to reach me **haythembekir@outlook.com**
 
