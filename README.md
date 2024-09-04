@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haythem Bekir </h1>
 <h3 align="center">A Full Stack Web Developer from Tunisia</h3>
 
-- 💻 I mainly use **Laravel ** and **MERN STACK**
+- 💻 I mainly use **PHP && LARAVEL** and **MERN STACK**
 
 - 🌱 I’m currently learning **GO** 
 
